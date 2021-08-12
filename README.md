@@ -11,7 +11,7 @@ I am an undergraduate student at BIT Mesra, majoring in Computer Science. My tec
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-important?logo=c%2B%2B&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-[Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 
 ![Sreeram's Github Stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&count_private=true&show_icons=true&include_all_commits=true)
 
