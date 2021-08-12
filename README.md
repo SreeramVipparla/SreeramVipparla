@@ -1,18 +1,18 @@
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SreeramVipparla&color=blue)
-### Hi there 👋
 
-<!--
-**SreeramVipparla/SreeramVipparla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋
+### I am Sreeram Vipparla 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an undergraduate student at BIT Mesra, majoring in Computer Science. My technology stack involves C, C++, Python,Git.
+
+**Expertised Languages and Tools:** 
+
+
+![C++](https://img.shields.io/badge/-C%2B%2B-important?logo=c%2B%2B&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+[Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+
+![Sreeram's Github Stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramvipparla&hide=TeX&layout=compact)
