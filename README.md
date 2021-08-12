@@ -1,5 +1,5 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=SreeramVipparla&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=SreeramVipparla&color=Blue)
 ### Hi there 👋
 
 <!--
