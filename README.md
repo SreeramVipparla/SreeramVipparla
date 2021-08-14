@@ -1,5 +1,5 @@
 
-![Visitor Count](https : //profile-counter.glitch.me/username=SreeramVipparla/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=SreeramVipparla&color=blue)
 
 ### Hello! 👋
 ### I am Sreeram Vipparla 
