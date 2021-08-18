@@ -9,7 +9,7 @@ I am an undergraduate student at BIT Mesra, majoring in Computer Science. My tec
 
 **Expertised Languages and Tools:** 
 
-
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-important?logo=c%2B%2B&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
