@@ -5,7 +5,7 @@
 ### I am Sreeram Vipparla 
 
 
-I am an undergraduate student at BIT Mesra, majoring in Computer Science. My technology stack involves  C++, Python,Git.
+I am an undergraduate student at BIT Mesra, majoring in Computer Science. My technology stack involves C, C++, DSA, Python, Git.
 
 **Expertised Languages and Tools:** 
 
