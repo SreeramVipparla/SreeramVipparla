@@ -16,6 +16,7 @@ I am an undergraduate student at BIT Mesra, majoring in Computer Science. My tec
 
 
 
-![Sreeram's Github Stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&count_private=true&show_icons=true&include_all_commits=true)
+![Sreeram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&show_icons=true&include_all_commits=true)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreeramvipparla&theme=default) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramvipparla&hide=TeX&layout=compact)
