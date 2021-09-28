@@ -7,7 +7,7 @@
 
 I am an undergraduate student at BIT Mesra, majoring in Computer Science. My technology stack involves C, C++, Python, HTML, CSS, JavaScript & DSA.
 
-**Expertised Languages, Tools & Technologies:** 
+## Expertised Languages, Tools & Technologies :computer: 
 
 <a href="https://www.programiz.com/c-programming" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -30,9 +30,7 @@ I am an undergraduate student at BIT Mesra, majoring in Computer Science. My tec
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
 </a>
-
+## My Stats 
 ![Sreeram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&show_icons=true&include_all_commits=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreeramvipparla&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramvipparla&layout=compact)](https://github.com/sreeramvipparla/github-readme-stats)
