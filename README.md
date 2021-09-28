@@ -31,6 +31,8 @@ I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My tec
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
 </a>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt="AngularJS" width="40" height="40"/>  
 </p>
 
 ## My Stats :chart_with_upwards_trend:
