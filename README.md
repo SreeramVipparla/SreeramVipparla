@@ -31,7 +31,7 @@ I am an undergraduate student at BIT Mesra, majoring in Computer Science. My tec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
 </a>
 
-![Sreeram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeramavipparla&show_icons=true&include_all_commits=true)
+![Sreeram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramvipparla&layout=compact)](https://github.com/sreeramvipparla/github-readme-stats)
 
