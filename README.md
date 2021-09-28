@@ -40,9 +40,8 @@ I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My tec
 ![](https://github.com/vinayaksh42/stats/blob/master/generated/languages.svg)
 ![](https://github.com/vinayaksh42/stats/blob/master/generated/overview.svg)
 
-<!--
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=vinayaksh42&show_icons=true)
-Here are some ideas to get you started:
+![My github stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&show_icons=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreeramvipparla&theme=default) 
+
+
