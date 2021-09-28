@@ -7,7 +7,7 @@
 
 I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My technology stack involves C, C++, Python, HTML, CSS, JavaScript & DSA.
 
-## Expertised Languages, Tools & Technologies :computer: 
+### Expertised Languages, Tools & Technologies :computer: 
 <p>
 <a href="https://www.programiz.com/c-programming" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
