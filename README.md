@@ -33,7 +33,13 @@ I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My tec
 </a>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt="AngularJS" width="40" height="40"/>  
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
+</a>
+
 </p>
+
 
 ### My Stats :chart_with_upwards_trend:
 ![Sreeram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeramvipparla&show_icons=true&include_all_commits=true)
