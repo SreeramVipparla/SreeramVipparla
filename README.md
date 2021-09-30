@@ -4,7 +4,7 @@
 ### Hello! 👋
 ### I am Sreeram Vipparla 
 
-
+## About Me :man:
 I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My technology stack involves C, C++, Python, HTML, CSS, JavaScript & DSA.
 
 ### Expertised Languages, Tools & Technologies :computer: 
