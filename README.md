@@ -31,18 +31,20 @@ I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My tec
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
 </a>
-  
+ <a href="https://angularjs.org/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt="AngularJS" width="40" height="40"/>  
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
 </a>
 
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  alt="Flask" width="40" height="40"/> 
+</a>
 
-
+ <a href="https://immutable-js.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/86887626/135575700-9dbc01a0-b1f8-4316-a7cb-ddc7b41f1e38.png"  alt="ImmutableJS" width="40" height="40"/>
-
+</a>
 </p>
 
 
