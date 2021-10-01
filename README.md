@@ -41,8 +41,7 @@ I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My tec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  alt="Flask" width="40" height="40"/> 
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fimmutable-js%3Flanguage%3Dtypescript&psig=AOvVaw0MHh3858nWWkPpgOycTcHt&ust=1633152383750000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiSy_G8qPMCFQAAAAAdAAAAABAD  
-  "  alt="ImmutableJS" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/86887626/135575700-9dbc01a0-b1f8-4316-a7cb-ddc7b41f1e38.png"  alt="ImmutableJS" width="40" height="40"/>
 
 </p>
 
