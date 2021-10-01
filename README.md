@@ -38,6 +38,9 @@ I am an undergraduate student at BIT-Mesra, majoring in Computer Science. My tec
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
 </a>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  alt="Flask" width="40" height="40"/> 
+
+  
 </p>
 
 
