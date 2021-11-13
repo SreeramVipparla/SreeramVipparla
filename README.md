@@ -5,7 +5,7 @@
 ### I am Sreeram Vipparla 
 
 ## About Me :man:
-I am an undergraduate student at NSUT, majoring in Computer Science. My technology stack involves C, C++, Python, HTML, CSS, JavaScript & DSA.
+I am an undergraduate student at NSIT, majoring in Computer Science. My technology stack involves C, C++, Python, HTML, CSS, JavaScript & DSA.
 
 ### Expertised Languages, Tools & Technologies :computer: 
 <p>
