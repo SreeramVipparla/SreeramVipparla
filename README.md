@@ -2,18 +2,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SreeramVipparla&color=blue)
 
 ## Hi There! 👋
-## I am Sreeram Vipparla 
+### I am Sreeram Vipparla 
 
 ## About Me :man:
 I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science and Engineering with specialization in Artificial Intelligence.
-- :orange_circle: My technology stack involves multiple projects and those are developed using C++, C, Python, JavaScript, Java, HTML, CSS & DSA.
+- :orange_circle: My technology stack involves multiple projects and those are developed using C++, C, Python, JavaScript, Java, HTML, CSS & Data Structures and Algorithms.
 
 - :green_circle: I am specialized in Full Stack Web Development (Back-end and Front-end).
 
 - :computer: I love contributing to Open Source Projects and enthusiastic learning new Technologies.
 
 -  :books::airplane: I love reading books on Personality Development and Travelling.
-- :trophy:I am a Black Belt holder in Karate and won many Awards in National Championships.
+- :trophy: I am a Black Belt holder in Karate and won many Awards in National Championships.
 
 - 📫 How to reach me:vipparlasreeram2003@hotmail.com
  - 📝 [My LinkedIn](https://www.linkedin.com/in/sreeram-vipparla/)
