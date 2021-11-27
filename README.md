@@ -6,7 +6,7 @@
 
 ## About Me :man:
 I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science and Engineering with specialization in Artificial Intelligence.
-- :orange_circle: My technology stack involves multiple projects and those are developed using C++, C, Python, JavaScript, Java, HTML, CSS & Data Structures and Algorithms.
+- :orange_circle: My technology stack involves multiple projects and those are developed using C++, C, Python, Java, JavaScript, Java, HTML, CSS & Data Structures and Algorithms.
 
 - :green_circle: I am specialized in Full Stack Web Development (Back-end and Front-end).
 
