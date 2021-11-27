@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SreeramVipparla&color=blue)
 
 ## Hi There! 👋
-### I am Sreeram Vipparla 
+## I am Sreeram Vipparla 
 
 ## About Me :man:
 I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science and Engineering with specialization in Artificial Intelligence.
