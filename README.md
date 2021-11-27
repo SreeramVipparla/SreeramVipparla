@@ -15,7 +15,7 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
 -  :books::airplane: I love reading books on Personality Development and Travelling.
 - :trophy: I am a Black Belt holder in Karate and won many Awards in National Championships.
 
-- 📫 How to reach me:vipparlasreeram2003@hotmail.com
+- 📫 How to reach me: vipparlasreeram2003@hotmail.com
  - 📝 [My LinkedIn](https://www.linkedin.com/in/sreeram-vipparla/)
 ### Expertised Languages, Tools & Technologies :computer: 
 <p>
@@ -29,6 +29,10 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</a>
+ 
+<a href="https://www.java.com/en/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
 </a>
 
 <a href="https://www.javascript.com/" target="_blank">
