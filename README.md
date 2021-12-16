@@ -68,7 +68,9 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
 <a href="https://https://www.anaconda.com/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/22454001?s=200&v=4" alt="Anaconda" width="40" height="40"/>
  </a>
-
+<a href="https://maven.apache.org/" target="_blank">
+<img src="https://user-images.githubusercontent.com/86887626/146342729-9c37338c-5ba4-4bc7-b01a-076addec353b.jpg" alt="Maven" width="50" height="50"/>
+  </a>
  <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/aws.png" alt="AWS" width="40" height="40"/>
   </a>
