@@ -112,5 +112,5 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
    ![](https://github.com/sreeramvipparla/github-stats/blob/master/generated/overview.svg)
    ![](https://github.com/sreeramvipparla/github-stats/blob/master/generated/languages.svg)
 
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeramvipparla&theme=light" alt="akshaaatt" /></p>
+ <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeramvipparla&theme=light" alt="akshaaatt" /></p>
 
