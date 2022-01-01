@@ -34,11 +34,8 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
 <a href="https://www.java.com/en/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
 </a>
-
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
-</a>
-  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ 
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/> 
 </a>
@@ -49,9 +46,10 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
 
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
-</a>
+<a href="https://reactjs.org/" target="_blank"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  
  
 <a href="https://angularjs.org/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt="AngularJS" width="40" height="40"/> 
