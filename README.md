@@ -16,7 +16,8 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
 - :trophy: I am a Black Belt holder in Karate and won many Awards in National Championships.
 
 - 📫 How to reach me: vipparlasreeram2003@hotmail.com
- - 📝 [My LinkedIn](https://www.linkedin.com/in/sreeram-vipparla/)
+ - 📝 [My LinkedIn Profile](https://www.linkedin.com/in/sreeram-vipparla/)
+ - 📝 [My Leetcode Profile](https://leetcode.com/Sreeram_Vipparla/)
 ### Expertised Languages, Tools & Technologies :computer: 
 <p>
 <a href="https://www.programiz.com/c-programming" target="_blank">  
