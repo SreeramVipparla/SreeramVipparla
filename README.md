@@ -105,13 +105,6 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
 
 </p>
 
- 
-
-
-
 ### My Stats :chart_with_upwards_trend:
    ![](https://github.com/sreeramvipparla/github-stats/blob/master/generated/overview.svg)
    ![](https://github.com/sreeramvipparla/github-stats/blob/master/generated/languages.svg)
-
- <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeramvipparla&theme=light" alt="sreeram" /></p>
-
