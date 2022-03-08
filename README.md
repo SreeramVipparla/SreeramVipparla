@@ -59,7 +59,9 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
  <a href="https://immutable-js.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/86887626/135575700-9dbc01a0-b1f8-4316-a7cb-ddc7b41f1e38.png"  alt="ImmutableJS" width="40" height="40"/>
 </a>
-
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="40" height="40"/>
+</a> 
  <a href="https://jupyter.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
 </a>
