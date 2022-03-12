@@ -87,6 +87,10 @@ I am an undergraduate Freshman at NSUT-New Delhi, majoring in Computer Science a
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="50"/>
 </a>
+  
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/86887626/158023444-722832bf-1cdc-4be2-8f07-bb7f6d9040fa.png" alt="MongoDB" width="40" height="40"/>
+</a>
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
