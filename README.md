@@ -5,7 +5,7 @@
 ## I am Sreeram Vipparla 
 
 ## About Me :man:
-I am Software Development Engineer at Times Internet and holding a bachelor's degree  in Computer Science and Engineering with specialization in Artificial Intelligence from NSUT, New Delhi.
+I am Software Development Engineer at Times Internet Ltd. and holding a bachelor's degree  in Computer Science and Engineering with specialization in Artificial Intelligence from NSUT, New Delhi.
 - :orange_circle: My technology stack involves multiple projects and those are developed using C++, C, Python, Java, JavaScript, HTML, CSS & Data Structures and Algorithms.
 
 - :green_circle: I am specialized in Full Stack Web Development (Back-end and Front-end).
